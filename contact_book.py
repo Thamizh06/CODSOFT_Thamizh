@@ -1,6 +1,4 @@
-# Run this is in an code editor like VS code
-# The program can do the following tasks:Store, Add, Display, Search ,Modify, Delete Contacts
-# Thank you <3
+
 class Contact:
     def __init__(self, name, phone_number, email, address):
         self.name = name
