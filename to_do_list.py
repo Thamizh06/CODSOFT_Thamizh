@@ -1,5 +1,4 @@
-# run the code in any IDE like VS code to run the program.
-# Using this code we can create a set of tasks and perform the following actions: add, list, mark,unmark, delete, edit, quit
+
 def print_task(ind,task):
 
     print(f"[{ind}{'✓' if task['completed'] else '☐'} {task['description']}")
