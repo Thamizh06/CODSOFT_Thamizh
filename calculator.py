@@ -1,5 +1,4 @@
-# Run the code in any code editors like VS code to get the required results... Thank you ;>
-# The operations available in this calculator are : +, -, *, /, sin, cos, tan, sec, csc, cot, sqrt, pow, and log 
+
 import math
 
 class Calculator:
